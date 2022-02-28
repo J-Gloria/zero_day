@@ -1,1 +1,1 @@
-This is my second git project in ALX SE program
+Here is my second git project in ALX SE program
